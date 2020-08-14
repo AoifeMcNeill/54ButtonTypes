@@ -1,0 +1,436 @@
+.btn1{
+    width: 50px;
+    height: 30px;
+  }
+  
+  .btn2{
+    width: 50px;
+    height: 30px;
+    margin-left: 10px;
+    border-bottom-right-radius: 10px;
+  }
+  
+  .btn3{
+    width: 50px;
+    height: 30px;
+    margin-left: 10px;
+    border-bottom-left-radius: 10px;
+  }
+  
+  .btn4{
+    width: 50px;
+    height: 30px;
+    margin-left: 10px;
+    border-top-right-radius: 10px;
+  }
+  
+  .btn5{
+    width: 50px;
+    height: 30px;
+    margin-left: 10px;
+    border-top-left-radius: 10px;
+  }
+  
+  .btn6{
+    width: 50px;
+    height: 30px;
+    margin-left: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+  }
+  
+  .btn7{
+    width: 50px;
+    height: 30px;
+    margin-left: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+  }
+  
+  .btn8{
+    width: 50px;
+    height: 30px;
+    margin-left: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  
+  .btn9{
+    width: 50px;
+    height: 30px;
+    margin-left: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
+  
+  .btn10{
+    width: 50px;
+    height: 30px;
+    margin-left: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+  }
+  
+  .btn11{
+    width: 50px;
+    height: 30px;
+    margin-left: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  
+  .btn12{
+    width: 50px;
+    height: 30px;
+    margin-left: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+  }
+  
+  .btn13{
+    width: 50px;
+    height: 30px;
+    margin-left: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
+  
+  .btn14{
+    width: 50px;
+    height: 30px;
+    margin-left: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  
+  .btn15{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    background-color: #6c6;
+  }
+  
+  .btn16{
+    width: 50px;
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+    color: #b61;
+  }
+  
+  .btn17{
+    width: 50px;
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-decoration: underline;
+  }
+  
+  .btn18{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-decoration: overline;
+  }
+  
+  .btn19{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-decoration: line-through;
+  }
+  
+  .btn20{
+    width: 50px;
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-decoration: underline overline;
+  }
+  
+  .btn21{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+  }
+  
+  .btn22{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+  }
+  
+  .btn23{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-decoration: underline;
+    text-decoration-style: double;
+  }
+  
+  .btn24{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+  }
+  
+  .btn25{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: left;
+  }
+  
+  .btn26{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: right;
+  }
+  
+  .btn27{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-transform: uppercase;
+  }
+  
+  .btn28{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-transform: lowercase;
+  }
+  
+  .btn29{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    text-indent: 10px;
+  }
+  
+  .btn30{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    letter-spacing: 2px;
+  }
+  
+  .btn31{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-shadow: 3px 2px #6cc;
+  }
+  
+  .btn32{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 2px solid #4cc;
+  }
+  
+  .btn33{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left:10px;
+    border: 2px dotted #4cc;
+  }
+  
+  .btn34{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 2px dashed #4cc;
+  }
+  
+  .btn35{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 2px double #4cc;
+  }
+  
+  .btn36{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 2px #4cc;
+    border-style: groove;
+  }
+  
+  .btn37{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 2px #4cc;
+    border-style: ridge;
+  }
+  
+  .btn38{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 2px #4cc;
+    border-style: inset;
+  }
+  
+  .btn39{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 2px #4cc;
+    border-style: outset;
+  }
+  
+  .btn40{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 2px #4cc;
+    border-style: dotted solid dashed double;
+  }
+  
+  .btn41{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    transform: rotate(10deg);
+  }
+  
+  .btn42{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    transform: skewY(10deg);
+  }
+  
+  .btn43{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    transform: skewX(10deg);
+  }
+  
+  .btn44{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-style: italic;
+  }
+  
+  .btn45{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-style: oblique;
+  }
+  
+  .btn46{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: "Impact";
+  }
+  
+  .btn47{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-image: linear-gradient(#e6f0ff, #1a75ff);
+  }
+  
+  .btn48{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-image: linear-gradient(to right, #e6f0ff, #1a75ff);
+  }
+  
+  .btn49{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-image: linear-gradient(to left, #e6f0ff, #1a75ff);
+  }
+  
+  .btn50{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-image: linear-gradient(to bottom right, #e6f0ff, #1a75ff);
+  }
+  
+  .btn51{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-image: linear-gradient(to bottom left, #e6f0ff, #1a75ff);
+  }
+  
+  .btn52{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-image: linear-gradient(to top right, #e6f0ff, #1a75ff);
+  }
+  
+  .btn53{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-image: linear-gradient(to top left, #e6f0ff, #1a75ff);
+  }
+  
+  .btn54{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-image: radial-gradient(#e6f0ff, #1a75ff);
+  }
